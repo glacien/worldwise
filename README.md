@@ -11,4 +11,4 @@ this app allows us to manage our trips all over the world
 login: jack@example.com
 password: qwerty
 
-don`t worry about message from browser about password, it`s because I store this test login data directly in code)
+don't worry about message from browser about password, it's because I store this test login data directly in code)
